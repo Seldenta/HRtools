@@ -1,0 +1,6 @@
+aiohttp
+asyncpg
+redis>=4.2.0rc1
+Pillow
+sanic[ext]
+git+https://github.com/hr-tools/horsereality>=1.1.0

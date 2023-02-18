@@ -1,0 +1,14 @@
+{
+    "address": "localhost",
+    "port": 2965,
+    "debug": false,
+    "redis": "redis://shay@localhost",
+    "remember_cookie_name": "remember_web_...",
+    "remember_cookie_value": "...",
+    "postgres": {
+        "database": "realtools",
+        "user": "username",
+        "password": "password"
+    },
+    "log": "latest.log"
+}
